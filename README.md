@@ -25,10 +25,11 @@ you know other awesome Spanner resources.
 * [Ruby](https://googleapis.dev/ruby/google-cloud-spanner/latest/Google/Cloud/Spanner.html) ([tutorial](https://cloud.google.com/spanner/docs/getting-started/ruby))
 * [C#](https://googleapis.github.io/google-cloud-dotnet/docs/Google.Cloud.Spanner.Data/api/Google.Cloud.Spanner.Data.html) ([tutorial](https://cloud.google.com/spanner/docs/getting-started/csharp))
 
-### JDBC Drivers
+### Drivers
 
 * [Google's OSS](https://cloud.google.com/spanner/docs/jdbc-drivers) JDBC driver
 * [Simba](https://cloud.google.com/spanner/docs/jdbc-drivers) JDBC driver
+* [R2DBC](https://github.com/GoogleCloudPlatform/cloud-spanner-r2dbc) driver
 
 ### ORM
 
@@ -45,6 +46,11 @@ you know other awesome Spanner resources.
 * [hammer](https://github.com/daichirata/hammer) - Schema management tool for Spanner.
 * [yo](https://github.com/cloudspannerecosystem/yo) - A command-line tool to generate Go code for Google Cloud Spanner.
 * [handy-spanner](https://github.com/gcpug/handy-spanner) - A SQLite backed Spanner emulator.
+
+## Configuration Management
+
+* [Puppet](https://github.com/GoogleCloudPlatform/puppet-google-spanner)
+* [Terraform](https://www.terraform.io/docs/providers/google/r/spanner_database.html)
 
 ## Migration
 
