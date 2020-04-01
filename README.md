@@ -8,8 +8,6 @@ you know other awesome Spanner resources.
 
 * [Official Documentation](https://cloud.google.com/spanner)
 * [Best Practices](https://cloud.google.com/spanner/docs/best-practice-list)
-* [Replication](https://cloud.google.com/spanner/docs/replication)
-* [Transactions](https://cloud.google.com/spanner/docs/transactions)
 * [API Reference](https://cloud.google.com/spanner/docs/reference/rest)
 
 ## Libraries and ORM
