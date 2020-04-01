@@ -49,6 +49,7 @@ you know other awesome Spanner resources.
 
 ## Configuration Management
 
+* [Chef](https://github.com/GoogleCloudPlatform/chef-google-spanner)
 * [Puppet](https://github.com/GoogleCloudPlatform/puppet-google-spanner)
 * [Terraform](https://www.terraform.io/docs/providers/google/r/spanner_database.html)
 
