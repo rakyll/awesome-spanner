@@ -12,7 +12,7 @@ you know other awesome Spanner resources.
 * [Transactions](https://cloud.google.com/spanner/docs/transactions)
 * [API Reference](https://cloud.google.com/spanner/docs/reference/rest)
 
-## Tools, Libraries and ORM
+## Libraries and ORM
 
 ### Client Libraries
 
@@ -36,7 +36,7 @@ you know other awesome Spanner resources.
 * [Hibernate ORM](https://cloud.google.com/spanner/docs/use-hibernate)
 * [Spring Data](https://cloud.google.com/spanner/docs/adding-spring)
 
-### Tools
+## Tools
 
 * [Spanner Console](https://console.cloud.google.com/spanner)
 * [Spanner command-line](https://github.com/cloudspannerecosystem/spanner-cli)
