@@ -9,6 +9,7 @@ you know other awesome Spanner resources.
 * [Official Documentation](https://cloud.google.com/spanner)
 * [Best Practices](https://cloud.google.com/spanner/docs/best-practice-list)
 * [API Reference](https://cloud.google.com/spanner/docs/reference/rest)
+* [GCP Weekly: Spanner](https://www.gcpweekly.com/gcp-resources/tag/google-cloud-spanner/)
 
 ## Libraries and ORM
 
