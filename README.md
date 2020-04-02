@@ -45,7 +45,8 @@ you know other awesome Spanner resources.
 * [wrench](https://github.com/cloudspannerecosystem/wrench) - Schema management tool for Spanner.
 * [hammer](https://github.com/daichirata/hammer) - Schema management tool for Spanner.
 * [yo](https://github.com/cloudspannerecosystem/yo) - A command-line tool to generate Go code for Google Cloud Spanner.
-* [handy-spanner](https://github.com/gcpug/handy-spanner) - A SQLite backed Spanner emulator.
+* [handy-spanner](https://github.com/gcpug/handy-spanner) - An unofficial SQLite backed Spanner emulator.
+* [spannerz](https://github.com/rakyll/spannerz) - Query planner visualizer that also provides introspection tools for Go programs.
 
 ## Configuration Management
 
@@ -67,6 +68,7 @@ you know other awesome Spanner resources.
 * [CPU Utilization](https://cloud.google.com/spanner/docs/cpu-utilization)
 * [Latency Debugging](https://cloud.google.com/spanner/docs/latency)
 * [Distributed Tracing and Client Metrics](https://medium.com/@orijtech/cloud-spanner-instrumented-by-opencensus-and-exported-to-stackdriver-6ed61ed6ab4e)
+
 
 ## Whitepapers
 
