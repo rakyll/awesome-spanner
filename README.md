@@ -47,6 +47,7 @@ you know other awesome Spanner resources.
 * [yo](https://github.com/cloudspannerecosystem/yo) - A command-line tool to generate Go code for Google Cloud Spanner.
 * [handy-spanner](https://github.com/gcpug/handy-spanner) - An unofficial SQLite backed Spanner emulator.
 * [spannerz](https://github.com/rakyll/spannerz) - Query planner visualizer that also provides introspection tools for Go programs.
+* [spanner-dump](https://github.com/cloudspannerecosystem/spanner-dump) - A command-line tool to export Cloud Spanner databases in text format.
 
 ## Configuration Management
 
