@@ -29,6 +29,7 @@ you know other awesome Spanner resources.
 * [Google's OSS](https://cloud.google.com/spanner/docs/jdbc-drivers) JDBC driver
 * [Simba](https://cloud.google.com/spanner/docs/jdbc-drivers) JDBC driver
 * [R2DBC](https://github.com/GoogleCloudPlatform/cloud-spanner-r2dbc) driver
+* [Go database/sql](https://github.com/rakyll/go-sql-driver-spanner) driver
 
 ### ORM
 
